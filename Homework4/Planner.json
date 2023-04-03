@@ -1,0 +1,33 @@
+{
+    "id" : 1, {
+    "Description":Buy a dress for my elder daughter on her Birthday Party,
+    "Priority":"Low priority",
+    "Creation date":"20.03.2023"
+    "Creation time":"09:47"
+    "Responsible person":"Admin"
+    "Deadline date":"N/D"
+    "Deadline time":"N/D"
+    }
+    }
+    {
+    "id" : 2, {
+    "Description":Take the dress from the Atelier "Prestige",
+    "Priority":"Immediate execution",
+    "Creation date":"20.03.2023"
+    "Creation time":"09:47"
+    "Responsible person":"Admin"
+    "Deadline date":"31.03.2023"
+    "Deadline time":"12:00"
+    }
+    }
+    {
+    "id" : 3, {
+    "Description":Get hired with salary 250k,
+    "Priority":"Medium priority",
+    "Creation date":"20.03.2023"
+    "Creation time":"09:48"
+    "Responsible person":"Djirgal Poshtarova"
+    "Deadline date":"30.03.2023"
+    "Deadline time":"21:00"
+    }
+    }

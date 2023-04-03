@@ -1,0 +1,52 @@
+<xml>
+<Task>
+<id>1</id>
+<Subject>Buy a dress for my elder daughter on her Birthday Party</Subject>
+<Author>Low priority</Author>
+<Adding time>20.03.2023</Adding time>
+<Adding date>09:47</Adding date>
+<Deadline>Admin</Deadline>
+<Priority>N/D</Priority>
+</Task></xml>
+<xml>
+<Task>
+<id>2</id>
+<Subject>Take the dress from the Atelier "Prestige"</Subject>
+<Author>Immediate execution</Author>
+<Adding time>20.03.2023</Adding time>
+<Adding date>09:47</Adding date>
+<Deadline>Admin</Deadline>
+<Priority>31.03.2023</Priority>
+</Task></xml>
+<xml>
+<Task>
+<id>3</id>
+<Subject>Get hired with salary 250k</Subject>
+<Author>Medium priority</Author>
+<Adding time>20.03.2023</Adding time>
+<Adding date>09:48</Adding date>
+<Deadline>Djirgal Poshtarova</Deadline>
+<Priority>30.03.2023</Priority>
+</Task></xml>
+<xml>
+<Task>
+<id>1</id>
+<Description>Buy a dress for my elder daughter on her Birthday Party</Description>
+<Priority>Low priority</Priority>
+<Creation date>20.03.2023</Creation date>
+<Creation time date>09:52</Creation time>
+<Responsible>Admin</Responsible>
+<Deadline date>N/D</Deadline date>
+<Deadline time date>N/D</Deadline time>
+</Task></xml>
+<xml>
+<Task>
+<id>2</id>
+<Description>Take the dress from the Atelier "Prestige"</Description>
+<Priority>Immediate execution</Priority>
+<Creation date>20.03.2023</Creation date>
+<Creation time date>09:52</Creation time>
+<Responsible>Admin</Responsible>
+<Deadline date>31.03.2023</Deadline date>
+<Deadline time date>12:00</Deadline time>
+</Task></xml>
